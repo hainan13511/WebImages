@@ -1,2 +1,2 @@
 # WebImages
-PicGo图床1
+PicGo图床(主要)
